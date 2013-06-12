@@ -2,7 +2,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.home.game" version="1.0">
 
 	<name>BlackJack</name>
-	<description>European BlackJack</description>
+	<description>Lobby</description>
 	<author email="sergio-korenko@yandex.ru">S. Korenko</author>	<gap:platforms>
 		<gap:platform name="ios" />
 		<gap:platform name="android" />
